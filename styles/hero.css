@@ -69,7 +69,7 @@
         transition: background-color 0.3s;
     }
     #hero-1946 .cs-button-solid:hover {
-        background-color: #000;
+        background-color: var(--secondary);
         color: #fff;
     }
     #hero-1946 .cs-picture-container {
