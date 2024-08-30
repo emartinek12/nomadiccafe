@@ -206,7 +206,7 @@
 /* Dark Mode */
 @media only screen and (min-width: 0rem) {
     body.dark-mode #hero-1946 {
-        background-color: rgba(0, 0, 0, 0.2);
+        background-color: #14110F;
     }
     body.dark-mode #hero-1946 .cs-title,
     body.dark-mode #hero-1946 .cs-text,
